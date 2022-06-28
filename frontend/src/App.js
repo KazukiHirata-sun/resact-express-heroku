@@ -10,7 +10,7 @@ function App() {
   },[])
   return (
     <div className="App">
-      <h1>フロントエンド</h1>
+      <h1>React</h1>
       <p>{ message }</p>
     </div>
   );
